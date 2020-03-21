@@ -5,7 +5,7 @@ a simpler, more human readable imagenet synset for keras.
 
 comparison:
 
-| ID | ImageNet | Keras | Simple (this repo) |
+| ID | ImageNet | Keras | Simple |
 | --- | --- | --- | --- |
 | 87 | African grey, African gray, Psittacus erithacus | African_grey | grey parrot |
 | 97 | drake | drake | duck |
