@@ -9,11 +9,11 @@ setup(
   author = 'Glenn Wolfe',
   author_email = 'glennwolfe@protonmail.com',
   url = 'https://github.com/gWOLF3/amerikana',
-  download_url = 'https://github.com/gWOLF3/amerikana/archive/v_01.tar.gz',
+  download_url = 'https://github.com/gWOLF3/amerikana/archive/0.1.tar.gz'
   keywords = ['keras', 'imagenet', 'labels', 'simple', 'american'], 
   install_requires=[           
-          'validators',
-          'beautifulsoup4',
+          'tensorflow',
+          'json',
       ],
   classifiers=[
     'Development Status :: 4 - Beta',
