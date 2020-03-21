@@ -1,0 +1,1 @@
+from amerikana.decoder import decode_predictions
