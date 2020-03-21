@@ -2,21 +2,20 @@ from distutils.core import setup
 setup(
   name = 'amerikana',         
   packages = ['amerikana'],  
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',       
   description = '☕ a simpler imagenet class synset and decoder utility. pluggable and 100% tf.keras compatible',
    
   author = 'Glenn Wolfe',
   author_email = 'glennwolfe@protonmail.com',
   url = 'https://github.com/gWOLF3/amerikana',
-  download_url = 'https://github.com/gWOLF3/amerikana/archive/0.1.tar.gz',
+  download_url = 'https://github.com/gWOLF3/amerikana/archive/0.2.tar.gz',
   keywords = ['keras', 'imagenet', 'labels', 'simple', 'american'], 
   install_requires=[           
-          'tensorflow',
-          'json',
+          'tensorflow'
       ],
   classifiers=[
-    'Development Status :: 4 - Beta',
+    'Development Status :: 5 - Production/Stable',
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
