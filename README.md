@@ -1,4 +1,5 @@
 ### ☕ amerikana: [tf.keras](https://www.tensorflow.org/guide/keras) prediction decoder for [imagenet-simple-labels](https://github.com/anishathalye/imagenet-simple-labels)
+[![PyPI version](https://badge.fury.io/py/amerikana.svg)](https://badge.fury.io/py/amerikana)
 
 a simpler, more human readable imagenet synset for keras. 
 
